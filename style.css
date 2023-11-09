@@ -1,0 +1,31 @@
+.attribution { font-size: 11px;  }
+.attribution a { color: hsl(228, 45%, 44%); }
+body {
+    position: relative;
+    display: flex;
+    top: 50px;
+    justify-content: center;
+    background-color: hsl(212, 45%, 89%);
+}
+.container {
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    padding: 15px;
+}
+img {
+    border-radius: 10px;
+    width: 100%;
+}
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 23px;
+}
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    margin: 7px 7px 13px 7px;
+}
